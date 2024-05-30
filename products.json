@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name":"",
+        "price": 799,
+        "image": "./images/oneplus-1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" ",
+        "price": 200,
+        "image": "./images/google-pixel-2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" ",
+        "price": 200,
+        "image": "./images/samsung-galaxy-3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" ",
+        "price": 200,
+        "image": "./images/apple-iphone-4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" ",
+        "price": 200,
+        "image": "./images/nothing-phone-5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" ",
+        "price": 200,
+        "image": "./images/xiaomi-13t-pro-6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" ",
+        "price": 200,
+        "image": "./images/sharp-aquos-sense-7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" ",
+        "price": 200,
+        "image": "./images/huawei-pura70-ultra-8.jpg"
+    },
+    {
+        "id": 9,
+        "name":" ",
+        "price": 200,
+        "image": "./images/vivo-y-9.jpg"
+    },
+    {
+        "id": 10,
+        "name":" ",
+        "price": 200,
+        "image": "./images/realme-gt-neo-10.jpg"
+    },
+    {
+        "id": 11,
+        "name":" ",
+        "price": 200,
+        "image": "./images/oppo-k12x-11.jpg"
+    },
+    {
+        "id": 12,
+        "name":" ",
+        "price": 200,
+        "image": "./images/infinix-gt-20-pro-12.jpg"
+    }
+    
+    
+    
+    
+    
+    ]
